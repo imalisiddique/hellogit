@@ -12,10 +12,6 @@
 	
 	### Feature 03
 	
-## Some Content 03
-
-	### Feature 01
-	
 	
 ## Table of content
 
